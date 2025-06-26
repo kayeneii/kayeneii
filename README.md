@@ -1,6 +1,7 @@
 ## Hi, you can call me Nimi.
 
 🧠 Data analytics professional with a minor in generative AI<br/>
+🤖 Built an intelligent emotional wellness app called [Moodles](https://moodles.netlify.app)<br/>
 ⚙️ Currently building a peace-tech company because life is long<br/>
 ✒️ I write articles on emerging tech and global issues on [LinkedIn](https://www.linkedin.com/newsletters/7271906133471064064/)<br/>
 🎙️ My podcasts are available on [YouTube](https://www.youtube.com/@peacepeoplepod), [Spotify](https://open.spotify.com/show/3CVXQamY5NHPNRlzCF3MBd), and [Apple](https://podcasts.apple.com/us/podcast/peace-and-people/id1810027754)<br/>
