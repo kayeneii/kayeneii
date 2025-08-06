@@ -1,6 +1,6 @@
 ## Hi, you can call me Nimi.
 
-🧠 Data analytics professional with a minor in generative AI<br/>
+🧠 Data analytics professional with a minor in ML and generative AI<br/>
 🤖 Built an AI-powered emotional wellness app called [Moodles](https://moodles.netlify.app)<br/>
 ⚙️ Currently building a peace-tech agency because life is long<br/>
 ✒️ I write articles on emerging tech and global issues on [LinkedIn](https://www.linkedin.com/newsletters/7271906133471064064/)<br/>
