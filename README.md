@@ -28,7 +28,7 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
 <a href="https://www.youtube.com/watch?v=1efJ2o7dDOY">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
-    <img src="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="It's Getting Crowded in Space" title="It's Getting Crowded in Space">
+    <img src="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Space is Getting Crowded" title="Space is Getting Crowded">
   </picture>
 </a>
 <a href="https://www.youtube.com/watch?v=P32aPGsiPVU">
