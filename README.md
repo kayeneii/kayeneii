@@ -23,10 +23,20 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
  <a href="#">![](https://github-readme-stats.vercel.app/api?username=kayeneii&theme=blueberry&hide_border=false&count_private=true)</a>
  <a href="#">![](https://nirzak-streak-stats.vercel.app/?user=kayeneii&theme=blueberry&hide_border=false)</a></br>
 
-<!-- ## 💫 Featured Projects -->
+### 💫 Featured Projects
 <!-- BEGIN YOUTUBE-CARDS -->
-[![It's Getting Crowded in Space | Orbital Congestion Report](https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "It's Getting Crowded in Space | Orbital Congestion Report")](https://www.youtube.com/watch?v=1efJ2o7dDOY)
-[![Moodles Demo Video](https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Moodles Demo Video")](https://www.youtube.com/watch?v=P32aPGsiPVU)
+<a href="https://www.youtube.com/watch?v=1efJ2o7dDOY">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="It's Getting Crowded in Space" title="It's Getting Crowded in Space">
+  </picture>
+</a>
+<a href="https://www.youtube.com/watch?v=P32aPGsiPVU">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
+    <img src="https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Moodles Demo Video" title="Moodles Demo Video">
+  </picture>
+</a>
 <!-- END YOUTUBE-CARDS -->
 
 
