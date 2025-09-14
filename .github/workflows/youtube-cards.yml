@@ -17,4 +17,3 @@ jobs:
         with:
           playlist_id: PLNhSGhvUtH1ekG-hCTt1cA8jQH5ajJAiH
           comment_tag_name: YOUTUBE-CARDS
-          show_duration: true
