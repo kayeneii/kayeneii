@@ -25,18 +25,8 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
 
 ### 💫 Featured Projects
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=1efJ2o7dDOY">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
-    <img src="https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=It%27s+Getting+Crowded+in+Space+%7C+Orbital+Congestion+Report&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Space is Getting Crowded" title="Space is Getting Crowded">
-  </picture>
-</a>
-<a href="https://www.youtube.com/watch?v=P32aPGsiPVU">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5">
-    <img src="https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Moodles Demo Video" title="Moodles Demo Video">
-  </picture>
-</a>
+[![Space is Getting Crowded](https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=Space+is+Getting+Crowded&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Space is Getting Crowded")](https://www.youtube.com/watch?v=1efJ2o7dDOY)
+[![Moodles Demo Video](https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Moodles Demo Video")](https://www.youtube.com/watch?v=P32aPGsiPVU)
 <!-- END YOUTUBE-CARDS -->
 
 
