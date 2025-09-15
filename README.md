@@ -22,13 +22,15 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
 ### 🧮 GitHub Stats
  <a href="#">![](https://github-readme-stats.vercel.app/api?username=kayeneii&theme=blueberry&hide_border=false&count_private=true)</a>
 
-### 💫 Featured Projects
+## 💫 Featured Projects
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Space is Getting Crowded](https://ytcards.demolab.com/?id=1efJ2o7dDOY&title=Space+is+Getting+Crowded&lang=en&timestamp=1757863762&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Space is Getting Crowded")](https://www.youtube.com/watch?v=1efJ2o7dDOY)
 [![Moodles Demo Video](https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Moodles Demo Video")](https://www.youtube.com/watch?v=P32aPGsiPVU)
 <!-- END YOUTUBE-CARDS -->
 
-### Streak Count
+---
+
+### 🧙‍ Streak Count
 <a href="#">![](https://nirzak-streak-stats.vercel.app/?user=kayeneii&theme=blueberry&hide_border=false)</a></br>
 
 ---
