@@ -9,7 +9,7 @@
 
 ---
 
-###  💼 Tools Stack:
+###  💼 Tools Stack
 [![](https://skillicons.dev/icons?i=py,sklearn,mysql,supabase,gcp,notion,netlify,github,blender&theme=dark)](https://skillicons.dev)<br/>
 Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
 
@@ -19,9 +19,8 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayeneii&layout=compact&theme=blueberry&count_private=true&hide_border=false)</a>
 </details>
   
-### 🧮 GitHub Stats:
+### 🧮 GitHub Stats
  <a href="#">![](https://github-readme-stats.vercel.app/api?username=kayeneii&theme=blueberry&hide_border=false&count_private=true)</a>
- <a href="#">![](https://nirzak-streak-stats.vercel.app/?user=kayeneii&theme=blueberry&hide_border=false)</a></br>
 
 ### 💫 Featured Projects
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -29,6 +28,8 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
 [![Moodles Demo Video](https://ytcards.demolab.com/?id=P32aPGsiPVU&title=Moodles+Demo+Video&lang=en&timestamp=1750653970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Moodles Demo Video")](https://www.youtube.com/watch?v=P32aPGsiPVU)
 <!-- END YOUTUBE-CARDS -->
 
+### Streak Count
+<a href="#">![](https://nirzak-streak-stats.vercel.app/?user=kayeneii&theme=blueberry&hide_border=false)</a></br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kayeneii&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
