@@ -1,5 +1,4 @@
-## Hi! 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
+## Nimi Adebayo | Data Analyst <p align="right"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
 
 🧠 Data analytics professional translating defence/security data into strategic insights<br/>
 🤖 Built an AI-powered emotional wellness app called [Moodles](https://moodlesai.netlify.app)<br/>
