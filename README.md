@@ -1,4 +1,5 @@
 ## Hi! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
 
 🧠 Data analytics professional translating defence/security data into strategic insights<br/>
 🤖 Built an AI-powered emotional wellness app called [Moodles](https://moodlesai.netlify.app)<br/>
@@ -34,4 +35,3 @@ Also proficient with Tableau, Microsoft Excel, Power BI, and Office Suite
 <a href="#">![](https://nirzak-streak-stats.vercel.app/?user=kayeneii&theme=blueberry&hide_border=false)</a></br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kayeneii&icon=0&color=0)](https://visitcount.itsvg.in)<br/>
