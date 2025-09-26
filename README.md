@@ -1,4 +1,4 @@
-## Awesome! You found me. Hello, I'm Nimi Adebayo 👋🏾<p align="right"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
+## Awesome! You found me. Pleasure meeting you virtually. 👋🏾<p align="right"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
 
 ### About Me
 🧠 Data analytics professional translating defence/security data into strategic insights<br/>
