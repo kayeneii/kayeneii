@@ -2,8 +2,8 @@
 
 ### About Me
 🧠 Data analytics professional translating defence/security data into strategic insights<br/>
-🤖 Built an AI-powered emotional wellness app called [Moodles](https://moodlesai.netlify.app)<br/>
 ⚙️ Developing a long-term vision in peace technology for a more peaceful world<br/>
+🤖 Building intelligent data-driven solutions for local and global problems<br/>
 ✒️ I write articles on emerging tech and global issues on [LinkedIn](https://www.linkedin.com/newsletters/7271906133471064064/)<br/>
 🎙️ My podcasts are available on [YouTube](https://www.youtube.com/@peacepeoplepod), [Spotify](https://open.spotify.com/show/3CVXQamY5NHPNRlzCF3MBd), and [Apple](https://podcasts.apple.com/us/podcast/peace-and-people/id1810027754)<br/>
 🍃 End goal is to retire as a farm-to-table chef<br/>
