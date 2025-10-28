@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start&pause=1000&color=FF69B4&repeat=false&width=435&lines=+Awesome!+You+found+me.)](https://git.io/typing-svg)<p align="right"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start&pause=1000&color=FF69B4&repeat=true&width=435&lines=+Awesome!+You+found+me.)](https://git.io/typing-svg)<p align="right"> <img src="https://komarev.com/ghpvc/?username=kayeneii&label=Profile%20views&color=ff69b4&style=flat" alt="kayeneii" /> </p>
 
 ### About
 🧠 Data analytics professional transforming defence/security data into strategic insights<br/>
